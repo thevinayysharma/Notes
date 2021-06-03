@@ -21,4 +21,32 @@ Know more about my tech mentor: [Tanay Pratap](https://tanaypratap.com)
 * Machine learning Understanding
 
 
-### Don't go to college, Ok but do this!
+### Don't go to college, Fine but do this!
+1. Build your Basics
+2. Learn about Netoworking.  Write your own webserver. Publish on Github [PoG]. Publish own Blog [PoB]
+3. Leaen about Database. Write your own Database. PoG, PoB.
+4. Learn about software design. UML diagrams, Agile. POB.
+5. Learn about algorithms. Publish your own implementations as a libary. PoG, PoB , PoNPM.
+6. Learn about programming language. Build your own compiler. PoG, PoB.
+7. Understand system design. Read blogs from big tech companies. Write your own understanding. PoB.
+8. Learn about operating systems. Try to write your own small OS. Learn Linux. PoG. Aggresively PoB.
+9. Learn some math as well. Algebra, vectors, matrix, Statistics, Porbability, Graphs. This will pay off in every field.
+10. Learn about AI. Write your linear regression algorithm. Don't be a script kiddo and run skylearn models, PoG, PoB.
+_Be Complete engineer with the basics which market demands_
+
+### Stages of a  Web developer
+1. Learn Online.
+2. Create Projects.
+3. Do OSS.
+4. Start reading heavy reference books, become SME.
+5. Read specs.
+6. Go Join a SPEC commitee.
+_Drive the future of technology_
+
+### Opinionated
+1. With upcoming time, Serverless will take over. It will be Frontend + Serverless + DevOps. Backend is going out, not complexity in it any more
+
+### Resources
+* Use markdown to make slides faster. [Remark](https://remarkjs.com/#1)
+* Understand Tech market easiy [Thoughtworks](https://www.thoughtworks.com/radar)
+
