@@ -19,3 +19,6 @@ Know more about my tech mentor: [Tanay Pratap](https://tanaypratap.com)
 * Rust
 * Golang
 * Machine learning Understanding
+
+
+### Don't go to college, Ok but do this!
