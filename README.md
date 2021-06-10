@@ -44,9 +44,10 @@ _Be Complete engineer with the basics which market demands_
 _Drive the future of technology_
 
 ### Opinionated
-1. With upcoming time, Serverless will take over. It will be Frontend + Serverless + DevOps. Backend is going out, not complexity in it any more
-
+1. With upcoming time, Serverless will take over. It will be Frontend + Serverless + DevOps. Backend is going out, not complexity in it any more. It's all abstracted out.
+2. Manual Testing is going down. Pay is too less. Work being too repetitive. Don't go into testing. Automated testing has no future because industry is going towards TDD. Google these terms: TDD, BDD, CYPRESS, Funtional testing, Testing inCI/CD.
 ### Resources
 * Use markdown to make slides faster. [Remark](https://remarkjs.com/#1)
 * Understand Tech market easiy [Thoughtworks](https://www.thoughtworks.com/radar)
+* Gist is an extremely powerful tool. You all as a developer should know how to use it.You can write a quick gist, and people can comment on it and everything. It's like a mini-blog. [Gist](gist.github.com). 
 
